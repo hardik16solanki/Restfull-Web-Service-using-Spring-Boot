@@ -1,1 +1,1 @@
-Section3-Video 13 : 13. Step 12 - Implementing Generic Exception Handling for all Resources
+Section3-Video 18 : 18. Step 17 - Overview of Advanced RESTful Service Features
