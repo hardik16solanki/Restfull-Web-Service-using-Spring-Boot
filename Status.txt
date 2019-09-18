@@ -1,1 +1,1 @@
-Section3-Video 18 : 18. Step 17 - Overview of Advanced RESTful Service Features
+Section3-Video 27 : 27. Step 25 - Implementing Dynamic Filtering for RESTful Service
